@@ -1,3 +1,0 @@
-Sub SetFocusToSheet(CPUserScreenshotSheet)
-    Sheets(CPUserScreenshotSheet).Select
-End Sub

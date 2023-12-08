@@ -1,3 +1,0 @@
-Sub SetFocusToSheet(CPReportFileName)
-    Sheets(CPReportFileName).Select
-End Sub
